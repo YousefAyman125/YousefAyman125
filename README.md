@@ -74,9 +74,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousefAymanAli&show_icons=true&theme=radical)  
+![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousefAymanAli&show_icons=true&theme=radical&count_private=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefAymanAli&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefAymanAli&layout=compact&theme=tokyonight&count_private=true)
 
 ---
 
