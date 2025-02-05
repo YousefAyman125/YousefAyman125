@@ -73,14 +73,6 @@
 
 ---
 
-### 📊 GitHub Stats
-![Yousef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YousefAyman125&show_icons=true&theme=radical&count_private=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YousefAyman125&layout=compact&theme=tokyonight&count_private=true)
-
----
-
-
 ### 🤝 Let's Connect!
 💼 **LinkedIn:** [Yousef Ayman Ali](https://www.linkedin.com/in/yousef-ayman-ali/)  
 📧 **Email:** Yousef.Ayman.Ali.Gomaa@gmail.com  
